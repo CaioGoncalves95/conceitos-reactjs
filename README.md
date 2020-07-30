@@ -4,5 +4,5 @@ Desafio aplicado ao projeto de conceitos de ReactJS do GoStack 11 da Rocketseat.
 
 Mais informações: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs <br>
 
-Adicionei a funcionalidade de curtir o repositório, aproveitando a rota criando na aplicação backend.
+Adicionei a funcionalidade de curtir o repositório, aproveitando a rota criada na aplicação backend.
 
